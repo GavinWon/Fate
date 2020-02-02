@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Destini.xcodeproj">
+      location = "self:/Users/gavinwong/Desktop/Repos/Fate/Fate.xcodeproj">
    </FileRef>
 </Workspace>

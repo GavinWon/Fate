@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AD6F1CCE20EBD3FC00198C34 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AD6F1CCD20EBD3FC00198C34 /* README.md */; };
 		EBB1C7411B9633A60011F5C3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB1C7401B9633A60011F5C3 /* AppDelegate.swift */; };
 		EBB1C7431B9633A60011F5C3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB1C7421B9633A60011F5C3 /* ViewController.swift */; };
 		EBB1C7461B9633A60011F5C3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBB1C7441B9633A60011F5C3 /* Main.storyboard */; };
@@ -16,8 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		AD6F1CCD20EBD3FC00198C34 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		EBB1C73B1B9633A60011F5C3 /* Destini.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Destini.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EBB1C73B1B9633A60011F5C3 /* Fate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBB1C73F1B9633A60011F5C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EBB1C7401B9633A60011F5C3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EBB1C7421B9633A60011F5C3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,8 +38,7 @@
 		EBB1C7321B9633A60011F5C3 = {
 			isa = PBXGroup;
 			children = (
-				AD6F1CCD20EBD3FC00198C34 /* README.md */,
-				EBB1C73D1B9633A60011F5C3 /* Destini */,
+				EBB1C73D1B9633A60011F5C3 /* Fate */,
 				EBB1C73C1B9633A60011F5C3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,12 +46,12 @@
 		EBB1C73C1B9633A60011F5C3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EBB1C73B1B9633A60011F5C3 /* Destini.app */,
+				EBB1C73B1B9633A60011F5C3 /* Fate.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EBB1C73D1B9633A60011F5C3 /* Destini */ = {
+		EBB1C73D1B9633A60011F5C3 /* Fate */ = {
 			isa = PBXGroup;
 			children = (
 				EBB1C7401B9633A60011F5C3 /* AppDelegate.swift */,
@@ -64,7 +61,7 @@
 				EBB1C7491B9633A60011F5C3 /* LaunchScreen.xib */,
 				EBB1C73E1B9633A60011F5C3 /* Supporting Files */,
 			);
-			path = Destini;
+			path = Fate;
 			sourceTree = "<group>";
 		};
 		EBB1C73E1B9633A60011F5C3 /* Supporting Files */ = {
@@ -78,9 +75,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EBB1C73A1B9633A60011F5C3 /* Destini */ = {
+		EBB1C73A1B9633A60011F5C3 /* Fate */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EBB1C75A1B9633A70011F5C3 /* Build configuration list for PBXNativeTarget "Destini" */;
+			buildConfigurationList = EBB1C75A1B9633A70011F5C3 /* Build configuration list for PBXNativeTarget "Fate" */;
 			buildPhases = (
 				EBB1C7371B9633A60011F5C3 /* Sources */,
 				EBB1C7381B9633A60011F5C3 /* Frameworks */,
@@ -90,9 +87,9 @@
 			);
 			dependencies = (
 			);
-			name = Destini;
+			name = Fate;
 			productName = Destini;
-			productReference = EBB1C73B1B9633A60011F5C3 /* Destini.app */;
+			productReference = EBB1C73B1B9633A60011F5C3 /* Fate.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -111,7 +108,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EBB1C7361B9633A60011F5C3 /* Build configuration list for PBXProject "Destini" */;
+			buildConfigurationList = EBB1C7361B9633A60011F5C3 /* Build configuration list for PBXProject "Fate" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -124,7 +121,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EBB1C73A1B9633A60011F5C3 /* Destini */,
+				EBB1C73A1B9633A60011F5C3 /* Fate */,
 			);
 		};
 /* End PBXProject section */
@@ -136,7 +133,6 @@
 			files = (
 				EBB1C7461B9633A60011F5C3 /* Main.storyboard in Resources */,
 				EBB1C74B1B9633A60011F5C3 /* LaunchScreen.xib in Resources */,
-				AD6F1CCE20EBD3FC00198C34 /* README.md in Resources */,
 				EBB1C7481B9633A60011F5C3 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -284,10 +280,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = Destini/Info.plist;
+				INFOPLIST_FILE = Fate/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.YourName.Destini;
+				PRODUCT_BUNDLE_IDENTIFIER = com.YourName.Fate;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -297,10 +293,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = Destini/Info.plist;
+				INFOPLIST_FILE = Fate/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.YourName.Destini;
+				PRODUCT_BUNDLE_IDENTIFIER = com.YourName.Fate;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -309,7 +305,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EBB1C7361B9633A60011F5C3 /* Build configuration list for PBXProject "Destini" */ = {
+		EBB1C7361B9633A60011F5C3 /* Build configuration list for PBXProject "Fate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EBB1C7581B9633A70011F5C3 /* Debug */,
@@ -318,7 +314,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EBB1C75A1B9633A70011F5C3 /* Build configuration list for PBXNativeTarget "Destini" */ = {
+		EBB1C75A1B9633A70011F5C3 /* Build configuration list for PBXNativeTarget "Fate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EBB1C75B1B9633A70011F5C3 /* Debug */,
