@@ -7,6 +7,8 @@ A fun choose your own adventure/path app. You are given a scenario/situation and
 ## Finished App
 <img src="https://github.com/GavinWon/Fate/blob/master/fate.png" alt="Finished App" width=300>
 
+Projects and files were created and written following iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp (udemy)
+
 
 
 
